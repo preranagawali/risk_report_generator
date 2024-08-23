@@ -1,1 +1,1 @@
-to generate the finacial risk rport
+generates the finacial risk report
